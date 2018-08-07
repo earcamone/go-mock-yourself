@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/RRYXxtvwVq7FC9iVHrUoq8T6A0=",
+			"path": "github.com/bouk/monkey",
+			"revision": "5df1f207ff77e025801505ae4d903133a0b4353f",
+			"revisionTime": "2018-02-15T07:46:47Z"
+		}
+	],
+	"rootPath": "github.com/earcamone/go-mock-yourself"
+}
