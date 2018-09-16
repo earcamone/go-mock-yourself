@@ -1070,9 +1070,9 @@ Go Mock Yourself HTTP thread-safe no matter what scenario you run it :)
  
 ## CHANGELOG
 
-### `0.0.1` - DD-MM-YYYY - Emiliano Arcamone (earcamone@hotmail.com)
+### `0.0.1` - 16-09-2018 - Emiliano Arcamone (earcamone@hotmail.com)
 
- - Go Mock Yourself HTTP: Initial stable version
+ - Go Mock Yourself HTTP: Initial stable (but still under beta until enough people start using it) version
 
 ## Developers
 
