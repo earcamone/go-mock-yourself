@@ -1,4 +1,4 @@
-package end_to_end_test
+package end_to_end
 
 import (
 	"fmt"
@@ -8,11 +8,11 @@ import (
 	"net/http"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http"
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
+	"github.com/earcamone/go-mock-yourself/http"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
 
 	// Go Mock Yourself e2e Tests Imports
-	"github.com/mercadolibre/go-mock-yourself/http/tests/internal/e2e_helpers"
+	"github.com/earcamone/go-mock-yourself/http/tests/internal/e2e_helpers"
 )
 
 //

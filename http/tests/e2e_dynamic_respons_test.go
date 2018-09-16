@@ -4,12 +4,14 @@ import (
 	"fmt"
 	"testing"
 	"net/http"
+	"io/ioutil"
 
 	// Third-Party Imports
 	"github.com/stretchr/testify/assert"
-	"github.com/mercadolibre/go-mock-yourself/http"
-	"io/ioutil"
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
+
+	// Go Mock Yourself Imports
+	"github.com/earcamone/go-mock-yourself/http"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
 )
 
 //

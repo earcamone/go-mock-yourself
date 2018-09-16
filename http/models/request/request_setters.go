@@ -10,7 +10,7 @@ import (
 	"net/http"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/models/internal"
+	"github.com/earcamone/go-mock-yourself/http/models/internal"
 )
 
 

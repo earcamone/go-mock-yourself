@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
 )
 
 func createHttpResponseFromMock(request *http.Request, mock Mock) (*http.Response, error) {

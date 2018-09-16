@@ -1,6 +1,7 @@
 package e2e_server
 
 import (
+	"sync"
 	"time"
 	"math/rand"
 
@@ -8,8 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
-	"sync"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
 )
 
 var e2eServerResponse *Response

@@ -1,12 +1,12 @@
 package go_mock_yourself_http
 
 import (
+	"os"
 	"fmt"
 	"net/http"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
-	"os"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
 )
 
 func dumpCommunicationStream(reqonse interface{}) []byte {

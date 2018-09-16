@@ -1,9 +1,10 @@
-package end_to_end_test
+package end_to_end
 
 import (
 	"testing"
 
-	"github.com/mercadolibre/go-mock-yourself/http/tests/internal/e2e_helpers"
+	// Go Mock Yourself Imports
+	"github.com/earcamone/go-mock-yourself/http/tests/internal/e2e_helpers"
 )
 
 //

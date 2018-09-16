@@ -1,7 +1,7 @@
 package e2e_helpers
 
 import (
-	"github.com/mercadolibre/go-mock-yourself/http"
+	"github.com/earcamone/go-mock-yourself/http"
 )
 
 //

@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
 )
 
 const testingHttpServerUrl = "http://127.0.0.1:8080"

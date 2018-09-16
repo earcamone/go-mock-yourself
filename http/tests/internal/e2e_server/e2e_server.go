@@ -10,8 +10,8 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/helpers"
-	"github.com/mercadolibre/go-mock-yourself/http/tests/internal/e2e_helpers"
+	"github.com/earcamone/go-mock-yourself/http/helpers"
+	"github.com/earcamone/go-mock-yourself/http/tests/internal/e2e_helpers"
 )
 
 //

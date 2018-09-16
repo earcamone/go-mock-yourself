@@ -4,6 +4,9 @@ go:
   - 1.9
   - tip
 
+notifications:
+  email: false
+
 before_install:
   - go get -t -v ./...
 

@@ -1,12 +1,13 @@
-package end_to_end_test
+package end_to_end
 
 import (
 	"fmt"
+	"strings"
 	"net/http"
 	"io/ioutil"
 
+	// Go Mock Yourself Imports
 	"github.com/earcamone/go-mock-yourself/http"
-	"strings"
 )
 
 //

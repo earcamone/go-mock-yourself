@@ -4,9 +4,9 @@ import (
 	"bufio"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http/models/mocks"
-	"github.com/mercadolibre/go-mock-yourself/http/models/request"
-	"github.com/mercadolibre/go-mock-yourself/http/models/response"
+	"github.com/earcamone/go-mock-yourself/http/models/mocks"
+	"github.com/earcamone/go-mock-yourself/http/models/request"
+	"github.com/earcamone/go-mock-yourself/http/models/response"
 )
 
 //

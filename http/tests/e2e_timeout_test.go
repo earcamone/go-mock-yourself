@@ -1,14 +1,16 @@
-package end_to_end_test
+package end_to_end
 
 import (
 	"time"
 	"testing"
 	"net/http"
 
+	// Third-Party Imports
 	"github.com/stretchr/testify/assert"
 
-	"github.com/mercadolibre/go-mock-yourself/http/tests/internal/e2e_helpers"
-	"github.com/mercadolibre/go-mock-yourself/http"
+	// Go Mock Yourself Imports
+	"github.com/earcamone/go-mock-yourself/http/tests/internal/e2e_helpers"
+	"github.com/earcamone/go-mock-yourself/http"
 )
 
 //

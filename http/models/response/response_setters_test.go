@@ -1,4 +1,4 @@
-package go_mock_yourself_response_test
+package go_mock_yourself_response
 
 //
 // =========================== Response Setters Tests ==============================
@@ -14,8 +14,8 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	// Go Mock Yourself Imports
-	"github.com/mercadolibre/go-mock-yourself/http"
-	"github.com/mercadolibre/go-mock-yourself/http/models/internal"
+	"github.com/earcamone/go-mock-yourself/http"
+	"github.com/earcamone/go-mock-yourself/http/models/internal"
 )
 
 //
